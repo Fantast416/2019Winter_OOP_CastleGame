@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\slks\desktop\oop project2\project\project\main.cpp(144): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project.vcxproj -> C:\Users\slks\Desktop\oop project2\Project\Debug\Project.exe
